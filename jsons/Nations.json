@@ -76,4 +76,48 @@
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
 	},
+	{
+		"name": "Assyria",
+		"leaderName": "Ashurbanipal",
+		"adjective": ["Assyrian"],
+		"startBias": ["Avoid [Tundra]"],
+
+		"startIntroPart1": "The people bow to your esteemed will, o wise and illustrious King Ashurbanipal of Assyria. Across the world, you are known as both a scholar and a warrior, and yet the legends represent merely a glimmer of your true ambition. Although your enemies cowered at the thought of your ferocity in conquest, you were most proud of your intellectual pursuits. Your thirst for knowledge led to your establishment of the royal library at Nineveh, which came to represent one of the greatest collections of ancient texts and tablets found anywhere in the world - securing your legacy as one of Assyria's greatest kings.",
+		"startIntroPart2": "Wise and fearsome king, the time has come for you to return the kingdom of Assyria to its greatest heights. Will you once again strive to acquire the knowledge and histories of all the world's peoples? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "I fear there is no other choice but to remove you from this world!",
+		"attacked": "I think you will come to regret this decision... most unwise...",
+		"defeated": "We may be defeated, but our legacy will live on in the written word..!",
+		"introduction": "I welcome you to the great kingdom of Assyria... have you come to view my library?",
+		
+		"neutralHello": "Yes?",
+		"hateHello": "What do YOU want!?",
+		"tradeRequest": "Will you consider a trade?",
+		"outerColor": [251,255,206],
+		"innerColor": [255,177,9],
+		"uniqueName": "Treasures of Nineveh",
+		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
+			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
+			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
+	},
+	{
+		"name": "Elam",
+		"leaderName": "Nahhunte",
+		"adjective": ["Elamite"],
+
+		"declaringWar": "We shall crush you like a bug!",
+		"attacked": "You too choose to ransack our Empire!?",
+		"defeated": "I have failed you, Inshushinak! I have failed!",
+		"introduction": "This is the Elamite Empire, and I, Nahhunte who built it.",
+
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
+
+		"tradeRequest": "We have come to ask for your stuff, if we may.",
+
+		"outerColor": [153,5,3],
+		"innerColor": [244,232,54],
+		"uniqueName": "Cities of Near East",
+		"cities": ["Susa"],
+    },
 ]
