@@ -30,7 +30,7 @@
 	{
 		"name": "Israel Judah Kingdom",
 		"leaderName": "David",
-		"adjective": ["Judah"],
+		"adjective": ["Israelite","Judah"],
 		"personality": "David",
 
 		"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
