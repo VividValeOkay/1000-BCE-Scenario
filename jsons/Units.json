@@ -34,7 +34,6 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
-		"upgradesTo": "Swordsman",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
 	},
@@ -59,5 +58,15 @@
 		"requiredTech": "Bronze Working",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
-	}
+	},
+	{
+		"name": "Composite Bowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"attackSound": "arrow"
+	},
 ]
