@@ -33,22 +33,19 @@
 		"adjective": ["Judah"],
 		"personality": "David",
 
-        "startIntroPart1": "O great David, Ruler of both Israel and Judah, bright as the Sun and mighty as the Nile! Lord of all living things, you lead the greatest of all civilizations, which has gifted the world with writing, advanced mathematics, sculpture, and architecture. Egyptian monuments and culture will continue to amaze the world for thousands of years.",
-        "startIntroPart2": "Mighty and eternal Ramesses, Egypt lasted for millenia, whereas other civilisations disappeared into dust after a few centuries. Amun-Ra blesses you again to lead Egypt and its people on the path of light. Will your new empire shine through the ages of history?",
-
 		"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
 		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your repulsive civilization!",
-		"defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
-		"introduction": "Greetings, I am Ramesses the god. I am the living embodiment of Judah, mother and father of all civilizations.",
+		"defeated": "The Kingdoms of Israel and Judah pull away before me. Everything I built now ashes...",
+		"introduction": "I Welcome you to the holy land! The lands of both Israel and Judah.",
 
 		"neutralHello": "Good day.",
 		"hateHello": "Oh, it's you.",
 
 		"tradeRequest": "Generous Israel makes you this offer.",
 
-		"outerColor": [255, 252, 3],
-		"innerColor": [83, 0, 208],
+		"outerColor": [255, 255, 255],
+		"innerColor": [38, 220, 252],
 		"uniqueName": "Ancient Hebrew Texts",
-		"cities": ["Jerusalem"],
+		"cities": ["Jerusalem","Haifa","Japho","Ashkelon","Afula","Yavne","Safed","Ramla","Beit She'an","Lod","Nazareth"],
     },
 ]
