@@ -118,6 +118,26 @@
 		"outerColor": [153,5,3],
 		"innerColor": [244,232,54],
 		"uniqueName": "Cities of Near East",
-		"cities": ["Susa"],
+		"cities": ["Susa","Chogha Zanbil","Urua","Khaydalu","Arrajan","Anshan"],
+    },
+	{
+		"name": "Phrygia",
+		"leaderName": "Midas",
+		"adjective": ["Phrygian"],
+
+		"declaringWar": "Your walls are weaker than they appear!",
+		"attacked": "Greed has overwhelmed you and has corrupted your mind. I will destroy you!",
+		"defeated": "I have misjudged you, and now I've been punished... I must leave this world behind.",
+		"introduction": "I am Midas, the great leader of Phrygia. I suppose you've heard of me already..?",
+
+		"neutralHello": "Yes?",
+		"hateHello": "Leave at once..!",
+
+		"tradeRequest": "They say I have a golden touch, so buying from us would go far for you...",
+
+		"outerColor": [245,248,185],
+		"innerColor": [18,84,30],
+		"uniqueName": "Heroic Greek Stories",
+		"cities": ["Gordion","Afyon","Eskisehir","Kutahya","Pessinus","Hierpolis","Laodikeia","Aizanoi","Apamea","Synnada"],
     },
 ]
