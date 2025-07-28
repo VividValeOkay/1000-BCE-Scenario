@@ -18,8 +18,8 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
 
-		"outerColor": [255, 252, 3],
-		"innerColor": [83, 0, 208],
+		"outerColor": [255,252,3],
+		"innerColor": [83,0,208],
 		"uniqueName": "Monument Builders",
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
@@ -139,5 +139,45 @@
 		"innerColor": [18,84,30],
 		"uniqueName": "Heroic Greek Stories",
 		"cities": ["Gordion","Afyon","Eskisehir","Kutahya","Pessinus","Hierpolis","Laodikeia","Aizanoi","Apamea","Synnada"],
+    },
+	{
+		"name": "Kush",
+		"leaderName": "Amanitore",
+		"adjective": ["Kushite"],
+
+		"declaringWar": "Our great strong arrows will strike you down!",
+		"attacked": "All you outsiders know is to take. Fine, if this is how you want to fall then so be it...",
+		"defeated": "The Kingddom of Kush is at a decline, but our pyramids will remain.",
+		"introduction": "I am Amanitore of Nubia. All are welcome in our magnificent cities—provided they come as friends.",
+
+		"neutralHello": "Yes?",
+		"hateHello": "Leave at once..!",
+
+		"tradeRequest": "Our trade gifts brings goodwill. Also, fresh camel liver. Don't make the mistake of cooking it!",
+
+		"outerColor": [251,236,127],
+		"innerColor": [146,74,1],
+		"uniqueName": "Kingdom of Kush",
+		"cities": ["Meroe","Napata","Kerma","Nuri","El-Kurru","Kawa","Sedeinga","Heh","Qasr Ibrim","Shaat"],
+    },
+	{
+		"name": "Edom",
+		"leaderName": "Jobab",
+		"adjective": ["Edomite"],
+
+		"declaringWar": "Prepare to be invaded!",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "If you wish to see us fall, then I hope you're proud...",
+		"introduction": "This is Jobab ben Zerah, and I welcome you to the Land of Uz.",
+
+		"neutralHello": "Yes?",
+		"hateHello": "Leave at once..!",
+
+		"tradeRequest": "Our trade gifts brings goodwill. Also, fresh camel liver. Don't make the mistake of cooking it!",
+
+		"outerColor": [247,40,17],
+		"innerColor": [120,35,10],
+		"uniqueName": "land of Uz",
+		"cities": ["Bozrah","Dinhabah","Avith","Pau","Edomite Settlement","Edomite Trading Settlement","Sedeinga","Heh","Qasr Ibrim","Shaat"],
     },
 ]
