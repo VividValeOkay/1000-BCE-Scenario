@@ -178,6 +178,86 @@
 		"outerColor": [247,40,17],
 		"innerColor": [120,35,10],
 		"uniqueName": "land of Uz",
-		"cities": ["Bozrah","Dinhabah","Avith","Pau","Edomite Settlement","Edomite Trading Settlement","Sedeinga","Heh","Qasr Ibrim","Shaat"],
+		"cities": ["Bozrah","Dinhabah","Avith","Pau","Edomite Settlement","Edomite Trading Settlement","Edomite Wide Settlement","Heh","Qasr Ibrim","Shaat"],
     },
+	{
+		"name": "Phoenicia",
+		"leaderName": "Hiram I",
+		"adjective": ["Phoenician"],
+
+		"declaringWar": "Prepare to be invaded!",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "If you wish to see us fall, then I hope you're proud...",
+		"introduction": "These cities belong to Phonecia, and the ships you see roaming the Mediterranean are all Phonecian.",
+
+		"neutralHello": "Yes?",
+		"hateHello": "Leave at once..!",
+
+		"tradeRequest": "We may become rich with these trades, I'm sure you'll agree?",
+
+		"outerColor": [205,205,205],
+		"innerColor": [81,0,137],
+		"uniqueName": "Late Bronze Age collapse",
+		"cities": ["Tyre","Sidon","Byblos","Arwad","Beiruta","Ampi","Amia","Baalbek","Tripolis","Carthage"],
+    },
+	{
+		"name": "Moab",
+		"adjective": ["Moabite"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 20, 204],
+		"cities": ["Dibon"]
+	},
+	{
+		"name": "Ammon",
+		"adjective": ["Ammonite"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [237, 141, 24],
+		"cities": ["Rabbath Ammon"]
+	},
+	{
+		"name": "Aram Damascus",
+		"adjective": ["Aramite"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [13, 188, 219],
+		"cities": ["Damascus"]
+	},
+	{
+		"name": "Hamat",
+		"adjective": ["Hamatite"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [138, 113, 91],
+		"cities": ["Hamat"]
+	},
+	{
+		"name": "Que",
+		"adjective": ["Quetite"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [242, 233, 48],
+		"cities": ["Que"]
+	},
 ]
